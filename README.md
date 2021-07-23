@@ -1,2 +1,2 @@
-MYSQL /n
+MYSQL  
 Create, Read, Update, Delete Study
